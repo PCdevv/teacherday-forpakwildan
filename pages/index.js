@@ -45,7 +45,7 @@ export default function Home() {
               <p>- guru terhumble yg pernah gw temui -sitie</p>
               <p>- guru ter the best-vivi</p>
               <p>- guru sekaligus temen -citra</p>
-              <p>-apapun yang terjadi, semoga selalu kuat pakk -nadya</p>
+              <p>- apapun yang terjadi, semoga selalu kuat pakk -nadya</p>
               <p>- terimakasih pak sudah kuat menghadapi kelas ini -rahma</p>
               <p>- ah kosek -ayyaa</p>
             </div>
@@ -63,8 +63,9 @@ export default function Home() {
             <p>- semoga pak wildan 2 periode #dukungpakwildan2periode -dindaa</p>
             <p>- Adam : Buah rambutan, buah duren, kalo bukan pak Wildan gak Kane menn🥵👉🏻👈🏻</p>
             <p>- Terimakasih tidak pernah mengusir kami dari Lab Pak, Terimakasih juga tips contekannya, dan #PantauFarrel 😅🙏🏼 - Vladimir Rangkowski</p>
-            <p>-Semoga Tetap Sabar dan Ikhlas mengajar kami Pak... uraaa🔥 (DenDhimas)</p>
-            <p>-maaf dan terimakasih pak (Yogs)</p>
+            <p>- Semoga Tetap Sabar dan Ikhlas mengajar kami Pak... uraaa🔥 (DenDhimas)</p>
+            <p>- maaf dan terimakasih pak (Yogs)</p>
+            <p>- yaa terimakasih ya pak -hcgf ehe</p>
             <p>-tetap harus menjalankan sholat dan sunnah Nabi - Acop</p>
             </div>
           </div>
