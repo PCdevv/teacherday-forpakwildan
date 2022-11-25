@@ -50,12 +50,13 @@ export default function Home() {
               <p>- ah kosek -ayyaa</p>
             </div>
           </div>
-          <div className="my-2 card w-96 bg-base-100 shadow-xl">
+          <div className="my-2 card w-96 bg-white shadow-xl">
             <figure className="px-5 py-5">
-              <Image className='rounded-md' src="/../public/img/pakwil.jpg" width={300} height={400}/>
+            {/* <div className="wil" id='wil'></div> */}
+              <Image className='rounded-md' src="/img/pakwil.jpg" width={300} height={400}/>
             </figure>
           </div>
-          <div className="bg-success-content text-white my-2 card w-96 bg-base-100 shadow-xl">
+          <div className="my-2 card w-96 bg-success-content text-white shadow-xl">
             <div className="card-body">
             <p>- makasih aja -nopal</p>
             <p>- Pak kangen :3 - Farrel</p>
@@ -77,7 +78,8 @@ export default function Home() {
         </div>
         <div className="card w-96 bg-base-100 shadow-xl">
           <figure className="px-5 py-5">
-            <Image className='rounded-md' src="/../public/img/solid.jpg" width={300} height={400}/>
+            {/* <div className="solid" id='solid'></div> */}
+            <Image className='rounded-md' src="/img/solid.jpg" width={300} height={400}/>
           </figure>
         </div>
       </div>
